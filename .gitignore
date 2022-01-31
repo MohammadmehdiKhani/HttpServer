@@ -1,0 +1,14 @@
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+bin/
+build/
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
